@@ -1,0 +1,4 @@
+Scanning 172.232.97.197 for open ports in range 1-80...
+Port 22 is open
+Port 80 is open
+Scan complete
